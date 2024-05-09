@@ -19,10 +19,10 @@ const Hero = () => {
           <Link
             className={classes.anchorBtn}
             rel="noopener noreferrer"
-            to="https://forms.gle/QHAWMfbiXtH8cCJA6"
+            to="https://forms.gle/JzQQDaDNXB9x4j5JA"
           >
             <Button
-              link="https://forms.gle/QHAWMfbiXtH8cCJA6"
+              link="https://forms.gle/JzQQDaDNXB9x4j5JA"
               label="Register Now"
               className={classes.btn}
             ></Button>
