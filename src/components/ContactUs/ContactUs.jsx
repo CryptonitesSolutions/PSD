@@ -23,11 +23,11 @@ const ContactUs = () => {
             </div>
             <div className={classes.column}>
               <div>
-                <h1>Name 2</h1>
+                <h1>DHARSHAN PP</h1>
                 <div>
                   <img src={img2} alt="" />
-                  <h1>  CSE DEPT</h1>
-                  <h1>Phone No : 7418800609</h1>
+                  <h1>  AI&DS DEPT</h1>
+                  <h1>Phone No : 9361383983</h1>
                 </div>
               </div>
             </div>
