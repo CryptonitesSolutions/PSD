@@ -10,7 +10,37 @@ const ContactUs = () => {
         <div className={classes.card}>
         <h1 className={classes.heading}>Contact Us</h1>
 
+        <div className={classes.card2}>
+        <h1 >FACULTY COORDINATORS</h1>
+
+            <div className={classes.column}>
+              <div>
+                <h1>PLACEHOLDER</h1>
+                <div>
+                  <img src={img2} alt="" />
+                  <h1>AI DEPT</h1>
+                  <h1>Phone No : xxxxxxxxxx</h1>
+                </div>
+              </div>
+            </div>
+            <div className={classes.column}>
+              
+              <div>
+                <h1>PLACEHOLDER</h1>
+                <div>
+                  <img src={img2} alt="" />
+                  <h1>  CSE DEPT</h1>
+                  <h1>Phone No : xxxxxxxxxx</h1>
+                </div>
+              </div>
+            </div>
+
+          </div>
+
+
           <div className={classes.card2}>
+          <h1 >STUDENT COORDINATORS</h1>
+
             <div className={classes.column}>
               <div>
                 <h1>JEYACHANDRAN J</h1>

@@ -115,10 +115,10 @@ const SingleEventPage = () => {
                 })}
               </div>
             )} */}
-            {link == "" ? (
+            {link != "" ? (
               <Button hrefLink={link} label="Register" />
       
-            ) : onSpot !== "" ? (
+            ) : onSpot == "" ? (
               <p className={classes.soon}>
                 Registration will be taken on spot!{" "}
               </p>

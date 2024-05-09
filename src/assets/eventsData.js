@@ -31,7 +31,7 @@ export const eventsData = [
       "Teams having a working model of their idea will be considered as a plus point by judging panel.",
       "If any kind of trolling, offending, or misbehaving seen by participants will not be tolerated.",
     ],
-    link: "",
+    link: "https://forms.gle/JzQQDaDNXB9x4j5JA",
   },
   {
     id: 2,
@@ -60,7 +60,7 @@ export const eventsData = [
       "Teams having a working model of their idea will be considered as a plus point by judging panel.",
       "If any kind of trolling, offending, or misbehaving seen by participants will not be tolerated.",
     ],
-    link: "",
+    link: "https://forms.gle/JzQQDaDNXB9x4j5JA",
   },
   
 ];
