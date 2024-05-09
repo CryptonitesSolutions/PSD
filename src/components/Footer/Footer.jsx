@@ -83,12 +83,12 @@ const Footer = () => {
             <div>
               <img
                 className={classes.footer_contact_image}
-                src="https://img.icons8.com/ios-filled/50/ffffff/outgoing-call.png"
+                src="https://cdn-icons-png.flaticon.com/512/646/646094.png"
                 alt=""
               />
             </div>
             <div>
-              <p>7418800609</p>
+              <p>xxxxxxxxxx</p>
             </div>
           </div>
         </div>
