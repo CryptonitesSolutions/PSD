@@ -5,16 +5,24 @@
   
   @media (max-width: 768px) {
     .carousel-item img {
-      width: 500px; 
+      width: auto; 
       height: 700px; 
+      margin-left: auto;
+      margin-right: auto; 
+      display: block; 
+      align-items: center;
     }
   }
   
   @media (min-width: 769px) {
     .carousel-item img {
-      width: 800px;
+      width: auto;
       height: 700px; 
-      margin-left: 400px;
+      margin-left: auto;
+      margin-right: auto; 
+      display: block; 
+      align-items: center;
     }
   }
+  
   
