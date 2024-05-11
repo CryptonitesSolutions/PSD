@@ -1,11 +1,11 @@
-import a from "./Events/speech.jpg";
-
+import a from "./Events/event1.png";
+import a1 from "./Events/event2.jpeg";
 
 
 export const eventsData = [
   {
     id: 1,
-    image: a,
+    image: a1,
     name: "Narracio",
     eventType:"Tech",
     description:

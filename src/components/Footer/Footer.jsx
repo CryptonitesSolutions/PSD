@@ -3,8 +3,8 @@ import sambhavLogo from "../../assets/Logo.png";
 import classes from "./Footer.module.css";
 
 
-const grabbitinsta = "";
-const grabbitlinkedin = "";
+const grabbitinsta = "https://www.instagram.com/vox4rum?igsh=MTQ0Mnlnc3lvMTBoMg==";
+const grabbitlinkedin = "https://www.linkedin.com/in/vox-4rum-5b5232308?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app";
 
 
 
@@ -88,7 +88,7 @@ const Footer = () => {
               />
             </div>
             <div>
-              <p>xxxxxxxxxx</p>
+              <p>voxforumkec@gmail.com</p>
             </div>
           </div>
         </div>

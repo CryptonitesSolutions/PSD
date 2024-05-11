@@ -36,10 +36,16 @@ const SingleEventPage = () => {
           </div>
           <div className={classes.col2}>
             <h1 className={classes.eventHeading}>{name}</h1>
-             <div className={classes.subheading}>
-              <h2 className={classes.heading}>Rules</h2>
-              <p className={classes.content}>{rules}</p>
-            </div> 
+            <div className={classes.subheading}>
+              <p className={classes.content}>
+                <ul>
+                  {rules.map((rule, index) => (
+                    <li key={index}>{rule}</li>
+                  ))}
+                </ul>
+              </p>
+            </div>
+
             {/* <div className={classes.rowcol}>
               <div className={classes.subheading}>
                 <h2 className={classes.heading}>Team</h2>

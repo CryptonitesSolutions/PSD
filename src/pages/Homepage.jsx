@@ -1,4 +1,5 @@
 import React, { useEffect } from "react";
+import Carousel from "../components/Carousel/Carousel"
 import About from "../components/About/About";
 import Contact from "../components/Contact/Contact";
 import Hero from "../components/Hero/Hero";
@@ -11,6 +12,7 @@ const Homepage = () => {
   return (
     <>
       <Hero />
+      <Carousel />
       <About />
       <Contact />
     </>

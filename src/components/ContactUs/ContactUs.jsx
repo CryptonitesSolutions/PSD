@@ -1,21 +1,21 @@
 import React from 'react'
 import classes from "./ContactUs.module.css"
 import img1 from "../../assets/img1.png";
-import img2 from "../../assets/3764982.jpg";
+import img2 from "../../assets/img2.jpeg";
 const ContactUs = () => {
   return (
     <>
       <div className={classes.background}>
         {/* <div className={classes.registerForm}> */}
         <div className={classes.card}>
-        <h1 className={classes.heading}>Contact Us</h1>
-
-        <div className={classes.card2}>
-        <h1 >FACULTY COORDINATORS</h1>
-
+        <h1 className={classes.heading}>Contact Us</h1><br></br>
+        {/* <div>
+        <h1 style={{marginLeft:'80px'}}>FACULTY COORDINATORS</h1>
+        </div> */}
+        {/* <div className={classes.card2}>
             <div className={classes.column}>
               <div>
-                <h1>PLACEHOLDER</h1>
+                <h1>Kanimozhi Selvi</h1>
                 <div>
                   <img src={img2} alt="" />
                   <h1>AI DEPT</h1>
@@ -35,11 +35,13 @@ const ContactUs = () => {
               </div>
             </div>
 
-          </div>
+          </div> */}
+          <div>
+          <h1 style={{marginLeft:'80px'}}>STUDENT COORDINATORS</h1>
+        </div>
 
 
           <div className={classes.card2}>
-          <h1 >STUDENT COORDINATORS</h1>
 
             <div className={classes.column}>
               <div>
@@ -53,11 +55,11 @@ const ContactUs = () => {
             </div>
             <div className={classes.column}>
               <div>
-                <h1>DHARSHAN PP</h1>
+                <h1>Srinath V V</h1>
                 <div>
                   <img src={img2} alt="" />
-                  <h1>  AI&DS DEPT</h1>
-                  <h1>Phone No : 9361383983</h1>
+                  <h1>CSE DEPT</h1>
+                  <h1>Phone No : 90429 67878</h1>
                 </div>
               </div>
             </div>
