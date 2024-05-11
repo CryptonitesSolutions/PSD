@@ -8,7 +8,7 @@ const ContactUs = () => {
       <div className={classes.background}>
         {/* <div className={classes.registerForm}> */}
         <div className={classes.card}>
-        <h1 className={classes.heading}>Contact Us</h1><br></br>
+        <h1 className={classes.heading} style={{marginRight:"150px"}}>Contact </h1><br></br>
         {/* <div>
         <h1 style={{marginLeft:'80px'}}>FACULTY COORDINATORS</h1>
         </div> */}
