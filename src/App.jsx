@@ -14,6 +14,7 @@ import ContactUs from "./components/ContactUs/ContactUs";
 import Popup from "./components/common/Popup/Popup";
 // import SwupOverlayTheme from "@swup/overlay-theme";
 // import Swup from "swup";
+// fix
 /* Google Analytics */
 import ReactGA from "react-ga";
 const TRACKING_ID = "UA-257375779-1"; // OUR_TRACKING_ID
