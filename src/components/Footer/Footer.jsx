@@ -61,6 +61,20 @@ const Footer = () => {
                 />
               </a>
             </div>
+            <div>
+              <a
+                href={grabbitlinkedin}
+                target="_blank"
+                rel="noopener noreferrer"
+                className={classes.footer_a_link}
+              >
+                <img
+                  className={classes.footer_social_link}
+                  src="https://img.icons8.com/color/48/ffffff/linkedin-circled--v1.png"
+                  alt=""
+                />
+              </a>
+            </div>
     
             
           </div>
