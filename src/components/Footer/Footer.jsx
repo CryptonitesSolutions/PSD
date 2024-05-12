@@ -5,7 +5,7 @@ import classes from "./Footer.module.css";
 
 const grabbitinsta = "https://www.instagram.com/vox4rum?igsh=MTQ0Mnlnc3lvMTBoMg==";
 const grabbitlinkedin = "https://www.linkedin.com/in/vox-4rum-5b5232308?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app";
-
+const YouTube = "https://youtube.com/@vox4rum?si=VwkacKJYiWIDS8Nl"
 
 
 const grabbiturl = "https://www.grabbitdypcoe.in";
@@ -26,7 +26,6 @@ const Footer = () => {
                 rel="noopener noreferrer"
                 className={classes.footer_a_link}
               >
-    
               </a>
             </div>
             <div>
@@ -63,14 +62,14 @@ const Footer = () => {
             </div>
             <div>
               <a
-                href={grabbitlinkedin}
+                href={YouTube}
                 target="_blank"
                 rel="noopener noreferrer"
                 className={classes.footer_a_link}
               >
                 <img
                   className={classes.footer_social_link}
-                  src="https://img.icons8.com/color/48/ffffff/linkedin-circled--v1.png"
+                  src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLTi2ub8_T_7xRaWF7ZU36P-8jSs9sP6TvGg&s"
                   alt=""
                 />
               </a>
